@@ -1,0 +1,1 @@
+Our project, PawSync, is an AI-powered Pet Health & Fitness Tracker App designed to help pet owners monitor their pets’ wellness in real-time. The app integrates AI-driven insights, virtual vet consultations, and smart wearable sync to enable proactive, personalized pet care.
